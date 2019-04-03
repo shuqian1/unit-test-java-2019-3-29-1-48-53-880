@@ -11,7 +11,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class AnswerGeneratorTest {
     private AnswerGenerator answerGenerator;
-    RandomIntGenerator randomIntGenerator;
+    private RandomIntGenerator randomIntGenerator;
 
     @Before
     public void setup(){
